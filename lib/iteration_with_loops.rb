@@ -16,5 +16,5 @@ def join_nested_strings(src)
     row += 1
   end
   
-  puts sentence.join(" ")
+  p sentence.join(" ")
 end
